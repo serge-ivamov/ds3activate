@@ -1,5 +1,5 @@
 # ds3activate
-Activates PS3 gamepads on macOS.
+Activates PS3 gamepads on macOS. (USB, wired)
 
 # Author:
 [vit9696](https://github.com/libsdl-org/SDL/issues/4923#issuecomment-966722634)
