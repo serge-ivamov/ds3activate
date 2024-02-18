@@ -1,6 +1,9 @@
 # ds3activate
 Activates PS3 gamepads on macOS.
 
+# Author:
+[vit9696](https://github.com/libsdl-org/SDL/issues/4923#issuecomment-966722634)
+
 # Use ```make test``` for build & test.
 ```bash
 $ make test
