@@ -16,3 +16,6 @@ Handling device 1:
   Activating device...
 $
 ```
+
+# Buttons press on their own.
+If after activation the gamepad buttons press themselves - search YouTube for a tutorial on how to clean the  contacts pad.
