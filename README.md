@@ -19,3 +19,6 @@ $
 
 # Buttons press on their own.
 If after activation the gamepad buttons press themselves - search YouTube for a tutorial on how to clean the  contacts pad.
+
+# Enjoy2
+[Enjoy2](https://github.com/serge-ivamov/enjoy2/#universal-build-of-enjoy2) is a free app for macOS that allows you to map gamepad events to keyboard/mouse events.
